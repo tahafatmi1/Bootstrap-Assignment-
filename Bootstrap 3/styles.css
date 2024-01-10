@@ -1,0 +1,19 @@
+
+.navbar2 {
+    background-color: rgb(16, 16, 98) !important;
+}
+.image1 {
+     size-adjust: small !important;
+     width: 30px !important;
+ 
+     height: 30px !important;
+
+}
+.divider-custom-line{
+    color: black solid ;
+
+}
+.container1{
+    background-color: aquamarine;
+    text-align: center;
+}
